@@ -1,0 +1,9 @@
+git config --global user.email""
+git config --global user.name""
+git clone repo url link
+git dtatus
+la
+la -ll
+git add
+git status
+git commit -m"message"
